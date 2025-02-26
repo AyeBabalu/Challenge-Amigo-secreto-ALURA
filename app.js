@@ -33,7 +33,7 @@ function actualizarLista() {
         lista.appendChild(item); // Agregar el <li> a la lista en el HTML
     }
 }
-// 4️⃣ Función para sortear un amigo al azar
+// 4️. Función para sortear un amigo al azar
 function sortearAmigo() {
     let resultado = document.getElementById("resultado"); // Obtener el contenedor del resultado
 
